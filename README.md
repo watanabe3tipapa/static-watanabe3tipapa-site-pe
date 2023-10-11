@@ -1,7 +1,7 @@
 # Deploying static websites to AWS S3 via CI/CD with Github Actions
  ---
  
- ![Deploy static websites to AWS S3]()
+ ![Deploy static websites to AWS S3](https://github.com/watanabe3tipapa/static-watanabe3tipapa-site-pe/assets/1008132/b58003f1-b0f1-4cf8-9e9c-802e7597eb44)
 
 
 
@@ -16,6 +16,6 @@
 ---
 
 
-- Public URL [AWS Hosted static website](http://xxx/)
+- Public URL [AWS Hosted static website](https://static-watanabe3tipapa-site.s3.ap-northeast-1.amazonaws.com/)
 
 
